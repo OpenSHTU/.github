@@ -24,7 +24,7 @@
 
 <!-- 3. 动态徽章按钮 -->
 <p>
-  <a href="https://openshtu.github.io">
+  <a href="https://github.com/OpenSHTU">
     <img src="./assets/open-shtu-cta.svg" alt="OpenSHTU 主页入口" width="88%">
   </a>
 </p>
